@@ -7,6 +7,6 @@ Then, fill the list fiis with the tickers you want to check.
 
 Ready! let's execute it:
 
-python3 acoes.py 2
+  `python3 acoes.py 2`
 
 The 2 is the number of columns you want in the figure.
